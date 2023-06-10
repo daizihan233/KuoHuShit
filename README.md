@@ -7,7 +7,7 @@
 
 本项目前身是 [KuoHuBit](https://github.com/daizihan233/KuoHuBit)
 
-再往前追溯就是 [HanBot]((https://github.com/daizihan233/HanBot)
+再往前追溯就是 [HanBot](https://github.com/daizihan233/HanBot)
 
 HanBot 目前已经不再维护也因为屎山特性导致无法运行
 
