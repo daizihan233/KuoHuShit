@@ -13,7 +13,7 @@ HanBot 目前已经不再维护也因为屎山特性导致无法运行
 
 KuoHuBit 虽然能用且可配置项多，但没有继承 HanBot 的屎山特性
 
-本项目（KuoHuShit）皆知在保证能用的情况下尽最大可能保留纯正的屎山
+本项目（KuoHuShit）的宗旨时在保证能用的情况下尽最大可能保留纯正的屎山
 
 ---
 
@@ -30,3 +30,9 @@ KuoHuBit 虽然能用且可配置项多，但没有继承 HanBot 的屎山特性
 如果使用 **KuoHuBit** 时遇到了任何 **Bug** 或者 **有新点子** 请到 [KuoHuBit](https://github.com/daizihan233/KuoHuBit) 提 **Issue**
 
 如果你觉得本项目 **不够屎山** 也可以在本项目提交 **Issue** 或 **Pull Request**
+
+# 观摩其他屎山
+
+[废弃屎山 - HanBot](https://github.com/daizihan233/HanBot)
+[风味屎山 - KuoHuBit](https://github.com/daizihan233/KuoHuBit)
+[灵感来源 - 2kshit](https://github.com/Abjust/2kshit)
