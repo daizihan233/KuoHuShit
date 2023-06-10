@@ -15,6 +15,8 @@ KuoHuBit 虽然能用且可配置项多，但没有继承 HanBot 的屎山特性
 
 本项目（KuoHuShit）的宗旨时在保证能用的情况下尽最大可能保留纯正的屎山
 
+代码书写风格参考了 [《垃圾代码书写准则》](https://github.com/trekhleb/state-of-the-art-shitcode/blob/master/README.zh-CN.md)
+
 ---
 
 本项目参照 [Mirai](https://github.com/mamoe/mirai) 的许可证，使用 AGPL-3.0 开源
